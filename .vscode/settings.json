@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.env.linux": {},
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "Projetointegrado.C": "cpp",
+        "IMC.C": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "c:\\Windows\\System32\\cmd.exe"
+}
